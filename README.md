@@ -7,7 +7,7 @@ First you'll need to get the source of the project. You could do this by cloning
 
 ```bash
 # Get the project code
-git clone https://github.com/Moesif/moesif-flask-mongo-example.git
+git clone https://github.com/rayappan/flask-mongo-example.git
 ```
 
 *NOTE: While working with Python, we would recommend to use virtual environment
@@ -46,5 +46,3 @@ python run-app.py
 
 Once the application is started, go to [localhost](http://localhost:5000/)
 on Postman and explore the APIs.
-
-More detail on how to design RESTful API could be found [here](https://www.moesif.com/blog/technical/restful/Guide-to-Creating-RESTful-APIs-using-Python-Flask-and-MongoDB/).
